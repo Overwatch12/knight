@@ -84,6 +84,26 @@
 </dir>
 
 <dir>
+   <title>b ball</title>
+   <link>https://raw.githubusercontent.com/Overwatch12/knight/master/b%20ball.xml</link>
+</dir>
+
+<dir>
+   <title>boxing greats</title>
+   <link>https://raw.githubusercontent.com/Overwatch12/knight/master/boxing%20greats.xml</link>
+</dir>
+
+<dir>
+   <title>knock outs</title>
+   <link>https://raw.githubusercontent.com/Overwatch12/knight/master/knock%20outs.xml</link>
+</dir>
+
+<dir>
+   <title>ufc knock outs</title>
+   <link>https://raw.githubusercontent.com/Overwatch12/knight/master/ufc%20knock%20outs.xml</link>
+</dir>
+
+<dir>
 <title>Search TMDB</title>
 <tmdb>search</tmdb>
 </dir>
