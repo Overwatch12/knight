@@ -1,3 +1,16 @@
+<dir>
+   <title>Movies</title>
+   <link>https://raw.githubusercontent.com/ontop12/tom/master/t%201%20%20movies.xml</link>
+</dir>
+
+<dir>
+   <title>Tv</title>
+   <link>https://raw.githubusercontent.com/lost50/end-of-days/master/eod%20tv.xml</link>
+</dir>
+<dir>
+   <title>Music</title>
+   <link>https://raw.githubusercontent.com/ontop12/tom/master/w%20mic.xml</link>
+</dir>
 
 <dir>
    <title>1 play</title>
@@ -12,11 +25,6 @@
 <dir>
    <title>black 1 play</title>
    <link>https://raw.githubusercontent.com/Overwatch12/knight/master/black%201%20play.xml</link>
-</dir>
-
-<dir>
-   <title>comedy</title>
-   <link>https://raw.githubusercontent.com/Overwatch12/knight/master/comedy.xml</link>
 </dir>
 
 <dir>
